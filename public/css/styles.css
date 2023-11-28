@@ -1,0 +1,45 @@
+.navbar-size {
+    width: 95%;
+    margin: 0 auto;
+}
+
+.user-image-size {
+    height: 30px;
+}
+
+.custom-image-style {
+    width: 100%; 
+    /* max-width: 400px;  */
+    height: auto; 
+    border-radius: 8px; 
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); 
+    margin-bottom: 5%;
+}
+
+
+
+.page-footer {
+    background-color: #fc8662   ; 
+    color: #fff; 
+    padding: 20px 0; 
+}
+
+.footer {
+    text-align: center;
+    padding-top: 10px;
+}
+
+.page-footer h5 {
+    margin-bottom: 10px;
+}
+
+.page-footer p {
+    margin: 5px 0;
+}
+
+.footer {
+    font-size: 14px;
+}
+
+
+
